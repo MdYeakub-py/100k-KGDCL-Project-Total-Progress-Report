@@ -65,7 +65,7 @@ What’s Included?</br>
   	
 Dashboard Preview</br>
 Here’s a snapshot of the dashboard that provides an overview of the project’s progress:</br>
-  ![image alt] (https://github.com/MdYeakub-py/100k-KGDCL-Project-Total-Progress-Report/blob/b64b75f3098259d5d6e71424f92e014ae5b3010b/100k%20KGDCL%20Project%20Progress%20Reports.png)</br>
+  ![image alt](https://github.com/MdYeakub-py/100k-KGDCL-Project-Total-Progress-Report/blob/b64b75f3098259d5d6e71424f92e014ae5b3010b/100k%20KGDCL%20Project%20Progress%20Reports.png)</br>
  
 How to Use It</br>
 1.	Open the Excel File:</br>
