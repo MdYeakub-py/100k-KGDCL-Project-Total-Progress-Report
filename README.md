@@ -65,7 +65,7 @@ What’s Included?</br>
   	
 Dashboard Preview</br>
 Here’s a snapshot of the dashboard that provides an overview of the project’s progress:</br>
- path/to/your/image.png</br>
+ ![100k KGDCL Project Progress Reports](https://github.com/user-attachments/assets/06760f56-6806-4619-ba69-81a99a9a7c45) </br>
 How to Use It</br>
 1.	Open the Excel File:</br>
   o	Use Microsoft Excel 2016 or later for the best experience.</br>
