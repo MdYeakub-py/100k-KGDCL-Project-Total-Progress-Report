@@ -93,6 +93,7 @@ This project is licensed under the MIT License. Refer to the LICENSE file for fu
 Let’s Connect</br>
 For any questions, suggestions, or feedback, feel free to reach out:</br>
 •	Email: mdyeakub.cse@example.com</br>
-•	GitHub: <a> https://mdyeakub-py.github.io/Personal_Protfolio/ </a></br>
+•	GitHub: https://github.com/MdYeakub-py/100k-KGDCL-Project-Total-Progress-Report.git</br>
+•    Protfolio : https://mdyeakub-py.github.io/Personal_Protfolio/ </br>
 ________________________________________</br>
 Thank you for exploring my project! I hope it serves as a valuable resource for managing and tracking installations effectively. Together, we can make it even better.</br>
